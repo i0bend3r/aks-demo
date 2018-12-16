@@ -1,0 +1,13 @@
+{
+  "name": "auth_api",
+  "version": "1.0.0",
+  "description": "Auth REST API to work with Azure KeyVault to perform authorization",
+  "author": "Adam Jasinski <adam@arctec.io>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
